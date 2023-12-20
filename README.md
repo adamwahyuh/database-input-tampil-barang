@@ -3,6 +3,7 @@
 <h3> Tentang</h3>
 
 - Input ke Database dan menyimpannya di Database mySQL
+- Menampilkan data 
 - Menghapus Data
 - Mengubah Data
 - Export To Ms Excel 
