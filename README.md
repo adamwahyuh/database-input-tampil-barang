@@ -1,6 +1,6 @@
 <h1 align="center"> Input Database MySQL PHP JS HTML CSS</h1>
 
-<h3> CONTENT</h3>
+<h3> Tentang</h3>
 
 - Input ke Database dan menyimpannya di Database mySQL
 - Menghapus Data
